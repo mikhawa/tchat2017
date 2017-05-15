@@ -58,7 +58,7 @@ if(isset($_POST['lelogin'])){
             }
         }
 } 
-    
+   echo "yes" !
 ?>
 <!DOCTYPE html>
 <html>
